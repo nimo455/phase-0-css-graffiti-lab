@@ -1,1 +1,47 @@
-/* write your override styles here */
+#wall{
+display: none;
+visibility: hidden;
+opacity: 0;
+}
+
+div.tag-1{
+display: none;
+visibility: hidden;
+opacity: 0;
+}
+
+#tag-2{
+display: none;
+visibility: hidden;
+opacity: 0;
+}
+
+#tag-3{
+display: none;
+visibility: hidden;
+opacity: 0;
+}
+
+div.tag-4{
+display: none;
+visibility: hidden;
+opacity: 0;
+}
+
+div.tag-5{
+display: none;
+visibility: hidden;
+opacity: 0;
+}
+
+#tag-6{
+display: none;
+visibility: hidden;
+opacity: 0;
+}
+
+#tag-7{
+display: none;
+visibility: hidden;
+opacity: 0;
+}
